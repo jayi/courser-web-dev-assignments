@@ -32,6 +32,7 @@ p {
 	width: 100px;
 	border-bottom: 1px solid black;
 	border-left: 1px solid black;
+	font-size: 18px;
 }
 
 #Chicken > .content_title {
@@ -43,7 +44,7 @@ p {
 }
 
 #Sushi > .content_title {
-	background-color: purple;
+	background-color: yellow;
 }
 
 @media (min-width: 992px) {
