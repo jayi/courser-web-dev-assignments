@@ -34,12 +34,13 @@ body {
 
 #content-row h2 {
 	font-weight: bold;
-	padding: 20px;
+	padding-top: 20px;
 }
 
 #content-row p {
 	height: 1000px;
-	padding: 15px;
+	padding: 0px 15px 15px 15px;
+	margin: 0px;
 }
 
 #collapsable-nav {
